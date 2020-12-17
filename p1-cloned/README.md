@@ -1,0 +1,2 @@
+
+# Almost every commented out section of code is code that I used when learning how to use React. Some blocks of code are simply testing and experimenting, some are from follow-alongs that I altered to my own liking, etc. If you have any questions about any of them please feel free to let me know and I will answer them as best I can.
