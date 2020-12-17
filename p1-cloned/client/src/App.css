@@ -16,7 +16,7 @@
 
 .Text-header {
   font-family: Italianno, cursive;
-  font-size: calc(10px + 4vmin);
+  font-size: calc(35px);
   color: white;
 }
 
@@ -71,7 +71,7 @@ border-radius: 10px 10px;
   border: 1px solid white;
   border-radius: 25px;
   height: 80%;
-  margin-left: 10px;
+  margin-left: 5%;
 }
 footer {
   padding-top: 100px;
