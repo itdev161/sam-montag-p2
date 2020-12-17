@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Person from './Person/Person';
+import TextRight from './MainTextRight/TextRight';
 
 class Root extends Component {
   render() {    
@@ -17,7 +18,7 @@ class Root extends Component {
               </aside>
             </div>
               <div className="Welcome-message">
-                <a href="Visit Italy!"><h2>Visit Italy</h2></a>
+                <a href="https://www.visititaly.eu/"><h2>Visit Italy</h2></a>
               </div> 
             <div className="aside2">        
               <aside>
@@ -29,7 +30,7 @@ class Root extends Component {
         <body>
           <section className="Maintext">
             <img src="https://media3.giphy.com/media/TGuYqKn46XwE8qTpWy/giphy.gif?cid=ecf05e47r39cjnaqoqmctqskzmquedvzralkkpmwz6e8fzta&rid=giphy.gif" alt="Roman Colosseum" />
-            <p>This is our Earth. The Earth rotates at a speed of roughly 1,000 miles per hour!</p> 
+            <TextRight />
           </section>               
       </body>
       <footer>
