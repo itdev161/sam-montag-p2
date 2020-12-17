@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #696969;
 }
 
 .App-logo {
@@ -11,6 +12,12 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.Text-header {
+  font-family: Italianno, cursive;
+  font-size: calc(10px + 4vmin);
+  color: white;
 }
 
 .App-header {
@@ -55,11 +62,21 @@ border-radius: 10px 10px;
 }
 
 .Maintext {
-  background-color: #696969;
+  margin-top: 50px;
+  height: 300px;
+  color: white;
 }
 .Maintext img{
+  float: left;
   border: 1px solid white;
   border-radius: 25px;
+  height: 80%;
+  margin-left: 10px;
+}
+footer {
+  padding-top: 100px;
+  background-color: white;
+  clear: both;
 }
 
 .App-link {
